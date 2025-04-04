@@ -4,7 +4,7 @@ A Loja SONECA COMÉRCIO é uma empresa especializada na venda de produtos de ces
 O principal problema enfrentado pela Loja SONECA COMÉRCIO  é a ineficiência no gerenciamento de 
 estoque resultando em perdas financeiras e insatisfação dos clientes devido à falta de produtos populares e excesso de itens com baixa demanda.
 Para resolver esse problema, proponho a implementação de um sistema de gestão de estoque inteligente que utilizará:
-###Análise de dados e previsão de demanda – Uso de ferramentas de análise para prever padrões de compra.
+1.  Análise de dados e previsão de demanda – Uso de ferramentas de análise para prever padrões de compra.
 2.	Automação do reabastecimento – Implementação de um sistema que alerta automaticamente sobre produtos em baixa quantidade.
 3.	Integração com fornecedores – Sistema que permite pedidos automáticos para evitar rupturas de estoque.
 4.	Dashboard de monitoramento em tempo real – Plataforma onde a equipe poderá visualizar o status dos produtos e tomar decisões rápidas.
